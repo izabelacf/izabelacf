@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.readme }}
 
          # Options
-          user: mateusfg7
+          user: izabelacf
           template: classic
           
           config_display: large
