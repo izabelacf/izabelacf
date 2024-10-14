@@ -35,7 +35,7 @@ jobs:
           # repositories_forks: yes
           repositories: 78
           repositories_affiliations: owner, collaborator
-          commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
+          commits_authoring: Izabela Cristina de Faria, Izabela Cristina, izabelacf
           
           plugin_lines: yes
           plugin_lines_history_limit: 3
