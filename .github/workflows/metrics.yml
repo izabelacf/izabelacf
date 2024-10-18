@@ -67,3 +67,6 @@ jobs:
           
           plugin_code: yes
           plugin_code_lines: 6
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: Half-year
