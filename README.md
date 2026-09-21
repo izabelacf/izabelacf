@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/izabelacf/izabelacf/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/izabelacf/izabelacf/languages-output/languages.svg" height="150" alt="languages graph" />
+
+  ## 🛠️ Linguagens
+<p align="left">
+  <img src="./profile/languages-icons.svg" alt="Linguagens mais utilizadas" />
+</p>
 </div>
 
 <picture data-importer="pacman">
